@@ -1,0 +1,14 @@
+C:\Users\katom\source\repos\HypeSquad changer\bin\Debug\Guna.UI2.dll
+C:\Users\katom\source\repos\HypeSquad changer\obj\Debug\HypeSquad changer.csproj.AssemblyReference.cache
+C:\Users\katom\source\repos\HypeSquad changer\obj\Debug\HypeSquad changer.csproj.SuggestedBindingRedirects.cache
+C:\Users\katom\source\repos\HypeSquad changer\obj\Debug\HypeSquad_changer.Properties.Resources.resources
+C:\Users\katom\source\repos\HypeSquad changer\obj\Debug\HypeSquad changer.csproj.GenerateResource.cache
+C:\Users\katom\source\repos\HypeSquad changer\obj\Debug\HypeSquad changer.csproj.CoreCompileInputs.cache
+C:\Users\katom\source\repos\HypeSquad changer\obj\Debug\HypeSquad changer.csproj.CopyComplete
+C:\Users\katom\source\repos\HypeSquad changer\bin\Debug\Boka Generator.exe.config
+C:\Users\katom\source\repos\HypeSquad changer\bin\Debug\Boka Generator.exe
+C:\Users\katom\source\repos\HypeSquad changer\bin\Debug\Boka Generator.pdb
+C:\Users\katom\source\repos\HypeSquad changer\obj\Debug\Boka Generator.exe
+C:\Users\katom\source\repos\HypeSquad changer\obj\Debug\Boka Generator.pdb
+C:\Users\katom\source\repos\HypeSquad changer\obj\Debug\HypeSquad_changer.Form2.resources
+C:\Users\katom\source\repos\HypeSquad changer\obj\Debug\HypeSquad_changer.FormUno.resources
